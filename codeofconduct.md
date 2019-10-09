@@ -6,6 +6,7 @@ Centreville Code & Coffee is committed to providing an experience that is safe a
 
 Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the admins.
 
-If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact Kalimar Maia [kalimar.maia at gmail dot com]. I will respond as promptly as I can.
+If you are being harassed or offended by a member of the community, notice that someone else is being harassed or offended, or have any other concerns, please contact Kevin Galang or Sean Hoar via Meetup http://bit.ly/CCCOrganizers [https://www.meetup.com/Centreville-Code-Coffee/members/4371283/
+] . We will respond as promptly as we can.
 
 Blatantly copied from NOVA Code & Coffee [https://novacodecoffee.com/] and originally from http://dctech.chat/code_of_conduct.html whom we love!
